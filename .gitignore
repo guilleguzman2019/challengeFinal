@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Editor
+.vscode/
+
+# Log files
+logs/
+*.log
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# SQLite
+*.sqlite
+
+# Environment variables
+.env
